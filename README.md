@@ -28,11 +28,11 @@ A simple social media application built with **React**, where users can create p
 
 ### 🏠 Home Page
 
-![Home Page Screenshot](public/screenshots/home.png)
+![Home Page Screenshot](public/Home.png)
 
 ### ➕ Create Post Page
 
-![Create Post Screenshot](public/screenshots/create-post.png)
+![Create Post Screenshot](public/CREATE.png)
 
 ---
 
